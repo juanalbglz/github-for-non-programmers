@@ -1,6 +1,6 @@
 # The Topbar
 
-![GitHub's Topbar](/images/github-right-sidebar.png)
+![GitHub's Topbar](../images/github-right-sidebar.png)
 
 The Topbar on the top of your repo's page let's you quickly navigate to features related to your project. By default, you're on the **Code** page where you can see your files and information from the most recent commit to affect each of them.
 
