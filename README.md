@@ -12,7 +12,7 @@ You probably don't write code, and may never want to write code. You are happy w
 
 ## Contributing
 
-Any help is welcome in improving this guide. Please see [our contributing guidelines](https://github.com/tvanantwerp/github-for-non-programmers/blob/master/CONTRIBUTING.md) for ways to help out.
+Any help is welcome in improving this guide. Please see [our contributing guidelines](CONTRIBUTING.html) for ways to help out.
 
 ## License
 
