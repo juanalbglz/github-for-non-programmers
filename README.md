@@ -10,6 +10,9 @@ This guide isn't meant to turn someone into a `git` master. It should show non-p
 
 You probably don't write code, and may never want to write code. You are happy with the subpar version control you have (e.g., `file.docx`, `file final.docx`, `file FINAL.docx`, etc.), not because it's good, but because you haven't been shown any other way to do it. This guide is an attempt to show you that better way without making your brain explode.
 
+## Summary
+#include "SUMMARY.md"
+
 ## Contributing
 
 Any help is welcome in improving this guide. Please see [our contributing guidelines](CONTRIBUTING.html) for ways to help out.
