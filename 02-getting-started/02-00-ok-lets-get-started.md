@@ -5,3 +5,5 @@
 3. Enter your user info from step 1 into the GitHub desktop app you installed in step 2.
 
 That was pretty painless, right? Let's get ready to practice creating repos, making commits, and working as a team on GitHub!
+
+| [PREVIOUS](https://juanalbglz.github.io/github-for-non-programmers/01-intro/01-00-what-is-github-anyway.html) | [NEXT](https://juanalbglz.github.io/github-for-non-programmers/03-commits/03-00-creating-your-first-repository.html) |
