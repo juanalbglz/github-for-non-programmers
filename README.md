@@ -1,3 +1,5 @@
+| [What is Github](https://juanalbglz.github.io/github-for-non-programmers/) | [Summary](https://juanalbglz.github.io/github-for-non-programmers/SUMMARY) |
+
 # GitHub for Non-Programmers
 
 GitHub is a website designed for programmers to collaboratively build their code. But that doesn't mean you need to be a programmer to use it! You can get started with collaborative version-tracking of your (non-programming) work without ever writing a line of code or using the command line.
@@ -31,3 +33,4 @@ Any help is welcome in improving this guide. Please see [our contributing guidel
 ## License
 
 This guide is distributed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Designs in GitHub products are copyrighted by GitHub, and their images are used under fair use doctrine for educational purposes.
+|[NEXT](https://juanalbglz.github.io/github-for-non-programmers/01-intro/01-00-what-is-github-anyway.html)|
