@@ -10,3 +10,5 @@ In the GitHub desktop app, click the plus arrow in the upper left. By default, t
 You've just created a folder where git can track your work for this project!
 
 When you create your first repo, it will automatically make your first commit for you. This first commit contains files that help git properly track your work. You can ignore these files for now, but don't move or delete them! These files are usually hidden, so you'll likely only see them if you have enabled the viewing of hidden system files on your computer.
+
+| [PREVIOUS](https://juanalbglz.github.io/github-for-non-programmers/02-getting-started/02-00-ok-lets-get-started.html) | [NEXT](https://juanalbglz.github.io/github-for-non-programmers/03-commits/03-01-new-repo-first-commit.html) |
