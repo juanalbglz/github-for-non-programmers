@@ -23,3 +23,5 @@ Below is what my example repository looks like on GitHub:
 ![Example repo on GitHub](../images/repo-on-github.png)
 
 There is a lot of information on this page; some of it you'll find useful, and some of it you can safely ignore as a non-programmer. Let's go over the important bits.
+
+| [PREVIOUS](https://juanalbglz.github.io/github-for-non-programmers/03-commits/03-02-creating-history-commits.html) | [NEXT](https://juanalbglz.github.io/github-for-non-programmers/04-github-ui/04-01-name-summary-files.html) |
