@@ -10,4 +10,4 @@ Isn't that more informative than several copies of a Word document named `Conten
 
 **GitHub** is a website that lets you store a copy of your git repository online where you can your collaborators can share it and work together. GitHub allows you and your team to know who is changing what and why. You can be sure that you're working off of the most recent copy of the work by pulling new commits from GitHub. And when you're done making commits of your own, you can push them back to GitHub for everyone else to use. You can also use features like GitHub Issues to keep track of problems and to-dos, and discuss them as a team. GitHub also makes it easy to control who can make what changes, and for merging different changes by different people together.
 
-| [PREVIOUS](https://juanalbglz.github.io/github-for-non-programmers/01-intro/01-00-what-is-github-anyway.html) | [NEXT](https://juanalbglz.github.io/github-for-non-programmers/02-getting-started/02-00-ok-lets-get-started.html)|
+| [PREVIOUS](https://juanalbglz.github.io/github-for-non-programmers/) | [NEXT](https://juanalbglz.github.io/github-for-non-programmers/02-getting-started/02-00-ok-lets-get-started.html)|
