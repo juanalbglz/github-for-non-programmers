@@ -15,3 +15,5 @@ By default, GitHub displays a repo's master branch. But you can view other branc
 ![Branches in GitHub](../images/github-branches.png)
 
 Now that we've created this new branch, we can add all of our relevant commits to just this branch. It won't affect what's on the master branch at all! This is a great way to experiment with projects, trying out new ideas without risking the destruction of preexisting good work.
+
+| [PREVIOUS](https://juanalbglz.github.io/github-for-non-programmers/05-branches/05-00-using-branches.html) | [NEXT](https://juanalbglz.github.io/github-for-non-programmers/05-branches/05-02-pull-requests.html) |
