@@ -1,4 +1,4 @@
-| [What is Github](https://juanalbglz.github.io/github-for-non-programmers/) | [Summary](https://juanalbglz.github.io/github-for-non-programmers/SUMMARY) |
+| [Github for non programmers](README.md) | [Summary](SUMMARY.md) | [NEXT -> What is GitHub, Anyway?](01-intro/01-00-what-is-github-anyway.md) |
 
 # GitHub for Non-Programmers
 
