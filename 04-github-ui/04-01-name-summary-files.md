@@ -13,3 +13,6 @@ Clicking on a file will let you view its contents, line-by-line. At the top of t
 If you go to the list of commits, either by viewing a specific file's history or by clicking **# Commits** at the top of the main repository page, you can view the same commit summary that you would see in the GitHub desktop app.
 
 ![Commit summary](../images/github-commit-view.png)
+
+
+| [PREVIOUS](https://juanalbglz.github.io/github-for-non-programmers/04-github-ui/04-00-github-basics.html) | [NEXT](https://juanalbglz.github.io/github-for-non-programmers/04-github-ui/04-02-sidebar.html) |
