@@ -13,3 +13,6 @@ You and your teammates will be able to discuss the request in the same way you c
 If, however, changes in your branch are in direct conflict with changes someone else has made to the branch you're merging into, then you'll need to resolve those conflicts. This can get a little tricky, so let's go over that in the next section.
 
 ![Pull Request on GitHub](../images/pull-request-discussion.png)
+
+
+| [PREVIOUS](05-01-create-new-branch.md) | [NEXT](../README.md) |
