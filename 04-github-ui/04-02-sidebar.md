@@ -13,3 +13,5 @@ The fourth option takes you to the project **Wiki**. The wiki is an optional are
 The next two options, **Pulse** and **Graphs**, show you statistics about the project. You can get a sense of who is contributing and how much, how popular the project is, etc. You may or may not find this information helpful.
 
 The final option is **Settings**. This takes you to the repository settings where you can add collaborators, set whether the repo is public or private, transfer ownership to another user, and even delete the repository from GitHub.
+
+| [PREVIOUS](https://juanalbglz.github.io/github-for-non-programmers/04-github-ui/04-01-name-summary-files.html) | [NEXT](https://juanalbglz.github.io/github-for-non-programmers/04-github-ui/04-02-sidebar.html) |
