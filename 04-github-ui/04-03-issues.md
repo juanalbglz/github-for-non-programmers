@@ -35,3 +35,5 @@ Assignees are the people who are collaborators on your project who have been ass
 ## Submit the Issue
 
 You don't need to use Labels, Milestones, or Assignees, but they are helpful for larger projects to keep track of things. Once you're happy with the Issue you've created, go ahead and click the green button **Submit new issue**
+
+| [PREVIOUS](https://juanalbglz.github.io/github-for-non-programmers/04-github-ui/04-02-sidebar.html) | [NEXT](https://juanalbglz.github.io/github-for-non-programmers/05-branches/05-00-using-branches.html)
