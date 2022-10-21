@@ -25,3 +25,5 @@ You should try to make commits that are logical chunks of work that you've done.
 As another example of what I mean by committing the logical chunks of your work as you go, here's the commit history of this guide up to this point:
 
 ![Guide commit history](../images/guide-commits.png)
+
+| [PREVIOUS](https://juanalbglz.github.io/github-for-non-programmers/03-commits/03-01-new-repo-first-commit.html) | [NEXT](https://juanalbglz.github.io/github-for-non-programmers/04-github-ui/04-00-github-basics.html) |
